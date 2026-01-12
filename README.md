@@ -106,8 +106,8 @@ This application demonstrates how AI can democratize data access by allowing bus
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd PwC
+git clone https://github.com/Elim777/pwc-ai-text-to-sql.git
+cd pwc-ai-text-to-sql
 ```
 
 ### Step 2: Create Virtual Environment

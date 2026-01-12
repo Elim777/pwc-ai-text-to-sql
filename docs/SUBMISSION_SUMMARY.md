@@ -4,7 +4,7 @@
 
 **Submitted by:** PwC Digital Solutions Team  
 **Date:** January 10, 2026  
-**Repository:** [GitHub Link - To be added]
+**Repository:** https://github.com/Elim777/pwc-ai-text-to-sql.git
 
 ---
 
@@ -69,8 +69,8 @@
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd PwC
+git clone https://github.com/Elim777/pwc-ai-text-to-sql.git
+cd pwc-ai-text-to-sql
 
 # Create virtual environment
 python3 -m venv venv
@@ -199,7 +199,6 @@ PwC/
 ├── docs/
 │   ├── PROJECT_PROPOSAL.md        # Full proposal (50+ pages)
 │   └── ARCHITECTURE.md            # Technical architecture
-├── research_result.md             # Deep research (57k words)
 └── [Source code files...]
 ```
 
@@ -316,9 +315,8 @@ We're confident this solution will exceed Jäppinen Ltd.'s expectations and prov
 
 ---
 
-**Prepared by:** PwC Digital Solutions - AI & Data Analytics Practice  
-**Contact:** [To be added]  
-**Repository:** [GitHub URL - To be added]  
+**Prepared by:** PwC Digital Solutions - AI & Data Analytics Practice
+**Repository:** https://github.com/Elim777/pwc-ai-text-to-sql.git
 
 ---
 

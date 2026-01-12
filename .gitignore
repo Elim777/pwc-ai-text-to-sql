@@ -1,0 +1,23 @@
+# Environment
+.env
+venv/
+env/
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Data (optional - we might want to keep the Excel for demo)
+# *.xlsx
+# *.csv

@@ -207,36 +207,6 @@ PwC/
 - **Streamlit**: Rapid development, Python-native, perfect for data applications
 - **Direct API Integration**: Full control, no framework overhead, minimal dependencies
 
-## 💡 Example Questions
-
-### Data Completeness
-```
-"How many records have missing values in the Exchange rate column?"
-"What percentage of data is complete?"
-"Show me all columns with null values"
-```
-
-### Aggregations
-```
-"How many transactions per currency?"
-"What's the total transaction value in USD?"
-"Show me the average transaction value by country"
-```
-
-### Filtering
-```
-"Show me all transactions in CAD currency"
-"Find records where Debit/Credit indicator is 'H'"
-"List transactions with back-posted documents"
-```
-
-### Time-based Analysis
-```
-"How many transactions were cleared in 2024?"
-"Show me clearing dates by fiscal year"
-"What's the transaction count per posting period?"
-```
-
 ## 🔧 Development
 
 ### Running Tests
